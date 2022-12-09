@@ -1,2 +1,5 @@
 # Caixa-Eletronico
-Valor a ser sacado e digite sua senha
+Digite o valor desejado;
+Digite sua senha;
+
+
